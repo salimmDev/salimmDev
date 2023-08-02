@@ -1,13 +1,17 @@
 ## About
-👋 Hi, I'm @salimmDev.
+👋 Hi there! I'm @salimmDev, a French Web Developer.
 
-💻 I'm interested in FrontEnd development.
+💻 FrontEnd development is my passion and expertise.
 
-📚 I am currently learning web development.
+📚 Currently, I'm deepening my knowledge in web development.
 
-🔍 I am looking for a work-study program.
+🎯 My goal is to find an exciting work-study program to enhance my skills further.
 
-Salim ABABULGU, Web Developer || Autonomous, organized, and sociable. I am currently looking for an apprenticeship.
+🌟 As a French Web Developer, I'm known for being autonomous, organized, and sociable.
+
+🔍 Right now, I'm actively seeking an apprenticeship opportunity to grow and contribute.
+
+Let's commit changes and make the web world better together! 🚀💻🌐 #github #webdevelopment #frontenddeveloper #opentowork
 
 
 ## Contact me
