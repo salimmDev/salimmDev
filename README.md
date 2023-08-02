@@ -1,10 +1,13 @@
 ## About
-- 👋 Hi, I'm @salimmDev
-- 👀 I'm interested in FrontEnd development
-- 🌱 I am currently learning web development
-- 💻  I am looking for a work-study program
+👋 Hi, I'm @salimmDev.
 
-- 🚀 Salim ABABULGU, Web Developer || Autonomous, organized and sociable. I am currently looking for an apprenticeship
+💻 I'm interested in FrontEnd development.
+
+📚 I am currently learning web development.
+
+🔍 I am looking for a work-study program.
+
+Salim ABABULGU, Web Developer || Autonomous, organized, and sociable. I am currently looking for an apprenticeship.
 
 
 ## Contact me
