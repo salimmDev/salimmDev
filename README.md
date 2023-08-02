@@ -17,3 +17,10 @@ Let's commit changes and make the web world better together! 🚀💻🌐 #githu
 ## Contact me
  - ✔️ **[Gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)** ▶ salimababulgu@gmail.com ◀
  - ✔️ **[Linkdin](https://www.linkedin.com/in/salim-ababulgu-bb25a9190/)**
+
+## Réseaux sociaux
+
+[![GitHub](https://example.com/github-icon.png)](https://github.com/votre_nom_d_utilisateur)
+[![LinkedIn](https://example.com/linkedin-icon.png)](https://www.linkedin.com/in/votre_nom_d_utilisateur)
+[![Twitter](https://example.com/twitter-icon.png)](https://twitter.com/votre_nom_d_utilisateur)
+
