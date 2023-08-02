@@ -17,4 +17,3 @@ Let's commit changes and make the web world better together! 🚀💻🌐 #githu
 ## Contact me
  - ✔️ **[Gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)** ▶ salimababulgu@gmail.com ◀
  - ✔️ **[Linkdin](https://www.linkedin.com/in/salim-ababulgu-bb25a9190/)**
- - ✔️ **[My portfolio](https://salim-aba.netlify.app//)** 
